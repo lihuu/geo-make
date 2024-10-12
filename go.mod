@@ -1,4 +1,4 @@
-module github.com/lihuu/geo-maker
+module github.com/lihuu/geo-make
 
 go 1.23.1
 
